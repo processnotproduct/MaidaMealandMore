@@ -1,0 +1,14 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+  Tyson Kemp -- Developer -- plus.google.com/+tysonkemp
+
+# THANKS
+
+  Sue Wilson
+
+# TECHNOLOGY COLOPHON
+
+  HTML5, CSS3, JS, 3D, Video,
